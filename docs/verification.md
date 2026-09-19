@@ -40,7 +40,11 @@ Artifact SHA-256 values from the same build:
 - `ghostsweep-0.1.0.tar.gz` —
   `8e97fd98332991c386f7ad6eb7c917b377e62a61c18da6faa1f036cf0ebac176`
 
-The commit, CI run, and release URL are appended after remote verification completes.
+Remote evidence for the initial published commit:
+
+- Commit: [`9953fe5`](https://github.com/juwonllee2024-dotcom/ghostsweep/commit/9953fe5)
+- CI: [run 35409265222](https://github.com/juwonllee2024-dotcom/ghostsweep/actions/runs/35409265222)
+- Release: [v0.1.0](https://github.com/juwonllee2024-dotcom/ghostsweep/releases/tag/v0.1.0)
 
 ## Security review
 
